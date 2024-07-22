@@ -1,4 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=3000&pause=100&color=6C6C6C&background=FFFFFF&random=false&width=800&height=100&lines=Hi+there+!+%F0%9F%91%8B;I'm+Jean+Perbet.+%F0%9F%A4%9D;I'm+a+passionate+%F0%9F%92%BB+student.+;Feel+free+to+contact+me+!+%F0%9F%93%A8)](https://git.io/typing-svg)
+
+
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=3000&pause=100&color=E6EDF3&background=0D1118&random=false&width=800&height=100&lines=Hi+there+!+%F0%9F%91%8B;I'm+Jean+Perbet.+%F0%9F%A4%9D;I'm+a+passionate+%F0%9F%92%BB+student.+;Feel+free+to+contact+me+!+%F0%9F%93%A8">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=3000&pause=100&color=6C6C6C&background=FFFFFF&random=false&width=800&height=100&lines=Hi+there+!+%F0%9F%91%8B;I'm+Jean+Perbet.+%F0%9F%A4%9D;I'm+a+passionate+%F0%9F%92%BB+student.+;Feel+free+to+contact+me+!+%F0%9F%93%A8">
+      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+    </picture>
+</p>
+
 ###### a bit about me
 
 🇫🇷 I come from **lyon**, in *france*.
@@ -11,7 +20,7 @@
 
 ⚡️ I'm always eager to take **new challenges** !
 
-###### I'm working on and/or learning this stuff
+###### i'm working on and/or learning this stuff
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat" />
