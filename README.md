@@ -14,9 +14,9 @@
 
 🇨🇭 But I live in **lausanne**, in *switzerland* !
 
-🎓 I'm pursuing a *master's degree* in computer science at swiss federal institute of technology (**epfl**).
+🎓 I'm pursuing a *master's degree* in data science at swiss federal institute of technology (**epfl**).
 
-🌱 I’m currently learning **ml**, **dsa**, **software dev**, **climbing** and **tennis**, amongst other things.
+🌱 I’m currently learning **nlp**, **computer vision**, **software engineering**, **climbing** and **tennis**, amongst other things.
 
 ⚡️ I'm always eager to take **new challenges** !
 
