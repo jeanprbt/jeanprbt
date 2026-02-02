@@ -14,7 +14,7 @@
 
 🇨🇭 I've been pursuing a master's degree in data science at epfl, in lausanne.
 
-<img alt="Mistral" src="assets/mistral.svg" height="12" width="24" /> I'm currently living in paris, interning at [Mistral](https://mistral.ai) as an applied AI engineer.
+<img alt="Mistral" src="assets/mistral.svg" height="12" width="24" /> I'm currently living in paris, working at [Mistral](https://mistral.ai) as an applied AI engineer.
 
 🎾 I'm a big tennis fan.
 
